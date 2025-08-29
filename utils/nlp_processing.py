@@ -12,8 +12,10 @@ def generate_guide(user_data, country_info):
         f"Ensure the guide is comprehensive and covers all essential aspects of the relocation process. "
         f"User Details: {user_data['name']} is a {user_data['personal_details']['age']}-year-old {user_data['personal_details']['occupation']} who is {user_data['personal_details']['marital_status']} and has {user_data['personal_details']['children']} children. "
         f"Additional Info: {user_data['personal_details']['additional_info']}. "
-        f"Specific Needs: {', '.join(user_data['specific_needs'])}."
+        f"Specific Needs: {', '.join(user_data['specific_needs'])}. "
+        f"Country-Specific Information: {country_info}"
     )
+    print("prompt:", prompt)
     response = call_openai_api(prompt)
 
     # Check if the response contains the expected keys

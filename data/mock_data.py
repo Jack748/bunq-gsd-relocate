@@ -1,7 +1,7 @@
 mock_user_data = {
     "name": "Giacomo",
-    "current_location": "Freiburg",
-    "new_location": "Amsterdam",
+    "current_location": "Germany",
+    "new_location": "Netherlands",
     "personal_details": {
         "age": 26,
         "marital_status": "single",
