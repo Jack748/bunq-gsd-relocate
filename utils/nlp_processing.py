@@ -1,5 +1,4 @@
 from utils.api_calls import call_openai_api
-import json
 
 def generate_guide(user_data, country_info):
     prompt = (

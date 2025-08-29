@@ -1,0 +1,68 @@
+[
+    {
+        "task": "Research Housing Options",
+        "deadline": "2 months before moving",
+        "description": "Explore neighborhoods in cities like Amsterdam, Rotterdam, or The Hague to determine which best suits your needs.",
+        "links": "[Numbeo Cost of Living](https://www.numbeo.com/cost-of-living/)"
+    },
+    {
+        "task": "Secure a Rental Property",
+        "deadline": "4 weeks before moving",
+        "description": "Use local platforms like Funda or Pararius to find a suitable rental property, and schedule viewings.",
+        "links": "[Funda](https://www.funda.nl/en/) | [Pararius](https://www.pararius.com/)"
+    },
+    {
+        "task": "Arrange Move-In Logistics",
+        "deadline": "1 week before moving",
+        "description": "Confirm the moving date with the rental agency, arrange for utilities.",
+        "links": "[Dutch Utilities Information](https://www.dutchutilities.nl/)"
+    },
+    {
+        "task": "Research Transportation Options",
+        "deadline": "1 month before moving",
+        "description": "Familiarize yourself with public transport options in the Netherlands.",
+        "links": "[NS (Dutch Railways)](https://www.ns.nl/en)"
+    },
+    {
+        "task": "Get a Dutch Driver’s License (if applicable)",
+        "deadline": "3 months before moving",
+        "description": "Check requirements for exchanging your German driver's license for a Dutch one.",
+        "links": "[Dutch Road Traffic Agency](https://www.rdw.nl/en)"
+    },
+    {
+        "task": "Update Your CV and LinkedIn Profile",
+        "deadline": "6 weeks before moving",
+        "description": "Tailor your CV to fit Dutch employment standards.",
+        "links": "[CV Guidelines for Netherlands](https://www.academictransfer.com/en/)"
+    },
+    {
+        "task": "Networking",
+        "deadline": "Ongoing, but start 3 months prior",
+        "description": "Join local expat groups and professional networks via LinkedIn.",
+        "links": "[Internations](https://www.internations.org/)"
+    },
+    {
+        "task": "Learn Basic Dutch Phrases",
+        "deadline": "Ongoing, but start 2 months before moving",
+        "description": "Familiarize yourself with basic Dutch phrases.",
+        "links": "[Duolingo](https://www.duolingo.com/)"
+    },
+    {
+        "task": "Research Local Customs and Etiquette",
+        "deadline": "1 month before moving",
+        "description": "Understand Dutch social norms and customs.",
+        "links": "[Cultural differences between Germany and Netherlands](https://www.commisceo-global.com/resources/country-guides/netherlands-guide)"
+    },
+    {
+        "task": "Research Schools for Children (if applicable)",
+        "deadline": "3 months before moving",
+        "description": "Investigate international and local schools in your chosen neighborhood.",
+        "links": "[International School Directory](https://www.internationalschoolsearch.com)"
+    },
+    {
+        "task": "Enroll Children in School (if applicable)",
+        "deadline": "1 month before moving",
+        "description": "Complete enrollment forms and gather necessary documents.",
+        "links": "[Dutch Ministry of Education](https://www.government.nl/topics/education)"
+    }
+]
