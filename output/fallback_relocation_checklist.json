@@ -1,0 +1,92 @@
+[
+    {
+        "task": "Research Neighborhoods",
+        "deadline": "3 months prior to moving",
+        "description": "Explore different neighborhoods in the Netherlands to find one that suits your lifestyle and needs.",
+        "links": "[Expatica's Guide to Living in the Netherlands](https://www.expatica.com/nl/moving/housing)"
+    },
+    {
+        "task": "Find Temporary Accommodation",
+        "deadline": "2 months prior to moving",
+        "description": "Book a temporary place to stay upon arriving in the Netherlands.",
+        "links": "[Airbnb](https://www.airbnb.com)"
+    },
+    {
+        "task": "Secure Permanent Housing",
+        "deadline": "1 month prior to moving",
+        "description": "Look for a permanent residence via online platforms or real estate agencies.",
+        "links": "[Funda](https://www.funda.nl/en/)"
+    },
+    {
+        "task": "Finalize Housing Lease",
+        "deadline": "2 weeks prior to moving",
+        "description": "Sign lease agreements and finalize deposits for your new home.",
+        "links": "[Nieuw Huren](https://www.nieuw-huren.nl/)"
+    },
+    {
+        "task": "Research Public Transport Options",
+        "deadline": "3 months prior to moving",
+        "description": "Familiarize yourself with the Netherlands’ public transport system.",
+        "links": "[NS Dutch Railways](https://www.ns.nl/en)"
+    },
+    {
+        "task": "Obtain a Dutch Driving License",
+        "deadline": "1 month prior to moving",
+        "description": "Check requirements for exchanging your German driving license for a Dutch one.",
+        "links": "[RDW - Dutch Vehicle Authority](https://www.rdw.nl/en)"
+    },
+    {
+        "task": "Plan Moving Transportation",
+        "deadline": "2 weeks prior to moving",
+        "description": "Hire a moving company or arrange your transport means to move your belongings.",
+        "links": "[Movers.com](https://www.movers.com)"
+    },
+    {
+        "task": "Confirm Job Placement",
+        "deadline": "3 months prior to moving",
+        "description": "Ensure your job placement in the Netherlands is secured.",
+        "links": "[Expatica Jobs](https://www.expatica.com/nl/jobs)"
+    },
+    {
+        "task": "Register with the Dutch Tax Authority",
+        "deadline": "2 weeks after moving",
+        "description": "Apply for a Dutch tax number (BSN).",
+        "links": "[Belastingdienst - Dutch Tax Authority](https://www.belastingdienst.nl/wps/wcm/connect/en/home)"
+    },
+    {
+        "task": "Learn Basic Dutch",
+        "deadline": "1 month prior to moving",
+        "description": "Start learning basic phrases and greetings in Dutch.",
+        "links": "[Duolingo](https://www.duolingo.com)"
+    },
+    {
+        "task": "Understand Dutch Culture",
+        "deadline": "Ongoing",
+        "description": "Research Dutch customs and etiquette to ease your transition.",
+        "links": "[Cultural Atlas - Netherlands](https://culturalatlas.sbs.com.au/dutch-culture)"
+    },
+    {
+        "task": "Explore Local Traditions",
+        "deadline": "1 month prior to moving",
+        "description": "Investigate local traditions and events to participate in.",
+        "links": "[Holland.com - Events Calendar](https://www.holland.com/global/tourism/calendar.htm)"
+    },
+    {
+        "task": "Research Schools for Children",
+        "deadline": "3 months prior to moving",
+        "description": "Look for schools for your children and explore different schooling options.",
+        "links": "[International Schools in Netherlands](https://www.international-schools-database.com)"
+    },
+    {
+        "task": "Enroll Children in School",
+        "deadline": "1 month prior to moving",
+        "description": "Complete enrollment paperwork for your children's chosen school.",
+        "links": "[Dutch Education System Overview](https://www.studyinholland.nl)"
+    },
+    {
+        "task": "Get Involved in School Community",
+        "deadline": "Ongoing",
+        "description": "Engage with the school community for a smooth integration of your children.",
+        "links": "N/A"
+    }
+]

@@ -6,5 +6,5 @@ class RelocationGuideAgent:
         self.user_data = user_data
 
     def generate_guide(self, country_info):
-        guide = generate_guide(self.user_data, country_info)
-        return guide
+        guide, checklist = generate_guide(self.user_data, country_info)
+        return guide, checklist
