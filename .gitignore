@@ -1,0 +1,12 @@
+# Ignore Python compiled files
+*.pyc
+__pycache__/
+
+# Ignore Markdown files
+*.md
+
+# Ignore any other files or directories you don't want to track
+# For example, if you have a virtual environment directory
+venv/
+env/
+.venv/
